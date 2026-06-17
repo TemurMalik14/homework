@@ -15,6 +15,6 @@ class Codechef
 	int max = a;
 	if(b > max) max = b;
 	if(c > max) max = c;
-	System.out.println("max =" +max);
+	System.out.println("this is max number " +max);
 	}
 }
